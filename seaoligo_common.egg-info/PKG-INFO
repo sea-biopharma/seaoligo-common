@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: seaoligo-common
+Version: 1.0.0
+Summary: Common python packages for sea-web-services
+Home-page: https://github.com/sea-biopharma/seaoligo-common
+Author: SEA Biopharma
+Author-email: sea.biopharma@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
