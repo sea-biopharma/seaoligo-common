@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="seaoligo-common",
+    name="seaoligo_common",
     version="1.1.0",
     description="Common python packages for sea-web-services",
     long_description=README,
@@ -23,7 +23,7 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.8",
     ],
-    packages=["seaoligo-common"],
+    packages=["seaoligo_common"],
     include_package_data=True,
     install_requires=['flask', 'flask-sqlalchemy', 'pyjwt'],
 )
